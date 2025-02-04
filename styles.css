@@ -97,4 +97,7 @@ background-color:red;
 .hero{
   flex-direction: column;
 }
+.about {
+  flex-direction: column ;
+}
 }
