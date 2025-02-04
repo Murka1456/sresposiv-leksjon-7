@@ -39,6 +39,7 @@ section {
 
 .heroImg {
   width: 50%;
+  height:50% ;
   border: 1px solid black;
 }
 .about {
@@ -54,6 +55,7 @@ section {
 
 .aboutImg {
   width: 50%;
+  height: 50%;
   border: 1px solid black;
 }
 .projects {
